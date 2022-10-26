@@ -6,8 +6,7 @@ namespace ruap_lv1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Renate Barišić, Broj indeksa: 0165081305");
-            
+            Console.WriteLine("Pozdrav iz aplikacije od Renate Barišić");
         }
     }
 }
